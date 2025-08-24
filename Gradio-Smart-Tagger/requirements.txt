@@ -1,0 +1,10 @@
+gradio
+numpy
+onnxruntime
+Pillow
+
+# For users with an NVIDIA GPU, you can get a significant speedup
+# by using the GPU-enabled onnxruntime instead. To do so, first run:
+# pip uninstall onnxruntime
+# Then run:
+# pip install onnxruntime-gpu
