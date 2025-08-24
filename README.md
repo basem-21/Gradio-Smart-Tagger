@@ -2,9 +2,6 @@
 
 An interactive Gradio UI for efficiently tagging image datasets. This tool accelerates your workflow by providing smart tag suggestions from a pre-trained ONNX model.
 
-![Screenshot of the Tagger UI](https://i.imgur.com/nJ2uV3S.png)
-*(This is an example image. I'll show you how to add your own screenshot at the end!)*
-
 ## Features
 
 -   **Responsive UI**: A clean, multi-column layout that's easy to navigate.
